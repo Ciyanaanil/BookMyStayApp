@@ -86,6 +86,8 @@ public class UseCase5BookingRequestQueue {
         // Step 1: Initialize Booking Queue
         BookingRequestQueue bookingQueue = new BookingRequestQueue();
 
+
+
         // Step 2: Simulate Guest Booking Requests
         Reservation r1 = new Reservation("Arun", "Single", 2);
         Reservation r2 = new Reservation("Priya", "Suite", 1);
